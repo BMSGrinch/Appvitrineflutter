@@ -1,0 +1,5 @@
+{
+    "dart.flutterHotReloadOnSave": "all",
+    "dart.previewHotReloadOnSaveWatcher": true,
+    "dart.hotReloadOnSave": "all"
+}
